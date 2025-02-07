@@ -9,6 +9,8 @@ type = 'thecybersecurityincidentmanifesto'
 
 # The Cybersecurity Incident Manifesto
 
+**Domain**: https://thecybersecurityincidentmanifesto.org/
+
 **Version**: 0.1
 
 **Status**: DRAFT
