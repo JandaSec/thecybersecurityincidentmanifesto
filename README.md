@@ -1,5 +1,4 @@
-# thecybersecurityincidentmanifesto
-The Cybersecurity Incident Manifesto – A Call to Arms for Security Leaders
+# The Cybersecurity Incident Manifesto – A Call to Arms for Security Leaders
 
 In my capacity as a Fractional CISO, and throughout my years as a permanent CISO, I have written, reviewed, audited, adapted, and rehearsed countless cybersecurity incident management plans. I have been involved in more incidents than I can count—some minor, some significant, and some truly catastrophic. I have seen first-hand what happens when a company is unprepared. I have witnessed mistakes made under pressure, the fallout of rushed decisions driven by executives demanding immediate answers, and the very human cost of an organisation scrambling in the dark when an incident unfolds.
 
