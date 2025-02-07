@@ -1,0 +1,2 @@
+# thecybersecurityincidentmanifesto
+The Cybersecurity Incident Manifesto
